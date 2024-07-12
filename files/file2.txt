@@ -1,0 +1,5 @@
+files/file1.txt: 0 words
+files/file2.txt: 0 words
+files/file3.txt: 0 words
+ferasabushahla@Ferass-MacBook-Air sProject % node index.js
+files/file1.txt: 27 words
